@@ -1,0 +1,29 @@
+.flex{
+    display:flex;
+}
+.Item-center{
+    align-items:center;
+}
+
+.Justify-center{
+    justify-content:center;
+}
+
+.Space-between{
+    justify-content:space-between;
+}
+/*convert into the uppercase letter*/ 
+.Uppercase{
+    text-transform:uppercase;
+}
+
+/*bold the fonts*/
+.Semibold{
+    font-weight:bolder;
+}
+
+/*for magin and padding*/
+.mp{
+    margin-left: 10px;
+    margin-right: 10px;
+}
