@@ -77,7 +77,7 @@ nav ul li{
     font-weight: 150;
     margin-top: 35px;
     margin-left: 40px;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
 .Section3 img{
     margin:25px;
@@ -345,7 +345,17 @@ nav ul li{
     margin-top: 35px;
     margin-left: 40px;
 }
-@media(max-width:1500px) and (min-width:1315px){
+.foter{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:99%;
+    margin-top: 15px;
+    height:40px;
+    font-size: 25px;
+    background-color:rgb(251, 96, 96) ;
+}
+@media(max-width:1507px) and (min-width:1315px){
     header{
         background: rgb(255, 0, 174);
         height:125px;
@@ -365,51 +375,331 @@ nav ul li{
     }
     .Section2 h1{
         font-size: 30px;
-        font-weight: 150;
+        font-weight: bold;
         margin-top: 25px;
         margin-bottom: 0px;
         margin-left: 15px;
     }
+     .Section4{
+        height:35vh;
+    }
+    .Section4 img{
+        height:30vh;
+    }
+    .Section4 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+     .Section5{
+        height:65vh;
+    }
+    .Section5 .image1{
+        height:40vh;
+    }
+    .Section5 .image2{
+        height:20vh;
+    }
+    .Section5 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section6{
+        height:35vh;
+    }
+    .Section6 img{
+        height:30vh;
+    }
+    .Section6 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section7{
+        height:35vh;
+    }
+    .Section7 img{
+        height:30vh;
+    }
+    .Section7 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section8{
+        height:35vh;
+    }
+    .Section8 img{
+        height:30vh;
+    }
+    .Section8 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section9{
+        height:35vh;
+    }
+    .Section9 img{
+        height:30vh;
+    }
+    .Section9 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section11{
+        height:35vh;
+    }
+    .Section11 img{
+        height:30vh;
+    }
+    .Section11 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section10{
+        height:25vh;
+    }
+    .Section10 img{
+        height:21vh;
+    }
+    .Section10 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section12{
+        height:29vh;
+    }
+    .Section12 img{
+        height:24vh;
+    }
+    .Section12 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section13{
+        height:29vh;
+    }
+    .Section13 img{
+        height:24vh;
+    }
+    .Section13 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section14{
+        height:29vh;
+    }
+    .Section14 img{
+        height:24vh;
+    }
+    .Section14 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section15{
+        height:29vh;
+    }
+    .Section15 img{
+        height:24vh;
+    }
+    .Section15 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section16{
+        height:29vh;
+    }
+    .Section16 img{
+        height:24vh;
+    }
+    .Section16 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section17{
+        height:29vh;
+    }
+    .Section17 img{
+        height:24vh;
+    }
+    .Section17 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section18{
+        height:65vh;
+    }
+    .Section18 img{
+        height:61vh;
+    }
+    .Section18 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section19{
+        height:65vh;
+    }
+    .Section19 img{
+        height:61vh;
+    }
+    .Section19 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section21{
+        height:65vh;
+    }
+    .Section21 img{
+        height:61vh;
+    }
+    .Section21 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section20{
+        height:32vh;
+    }
+    .Section20 img{
+        height:27vh;
+    }
+    .Section20 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section22{
+        height:32vh;
+    }
+    .Section22 img{
+        height:27vh;
+    }
+    .Section22 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section23{
+        height:32vh;
+    }
+    .Section23 img{
+        height:27vh;
+    }
+    .Section23 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
 } 
+@media(max-width:1507px){
+    .Section3{
+        height:45vh;
+        width:100%;
+    }
+    .Section3image{
+        display:flex;
+        height:40vh;
+    }
+    .Section2 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+}
 @media(max-width:1463px){
     .Section3{
         height:40vh;
         width:100%;
     }
-    .Section3 img{
-        /*flex-wrap: wrap;*/
+    .Section3image{
+        display:flex;
+        justify-content:space-around;
         height:36vh;
-        padding-left: 20px;
-    }  
+    } 
     .Section3 h1{
         font-size: 30px;
-        font-weight: 150;
+        font-weight: bold;
         margin-top: 25px;
         margin-bottom: 0px;
         margin-left: 15px;
     }
-    
 }
-@media(max-width:1399px){
+@media(max-width:1420px){
     .Section3{
         height:37vh;
         width:100%;
     }
-    .Section3 img{
-        /*flex-wrap: wrap;*/
-        height:32vh;
-        padding-left: 5px;
-    }  
+    .Section3image img{
+        display:flex;
+        flex-wrap: nowrap;
+        height:30vh;
+        width:15vw;
+    } 
     .Section3 h1{
         font-size: 30px;
-        font-weight: 150;
+        font-weight: bold;
         margin-top: 25px;
         margin-bottom: 0px;
         margin-left: 15px;
     }
 }
 
-@media(max-width:1314px){
+@media(max-width:1315px){
     header{
         background: red;
         height:125px;
@@ -433,13 +723,299 @@ nav ul li{
     }
     .Section2 h1{
         font-size: 30px;
-        font-weight: 150;
+        font-weight: bold;
         margin-top: 25px;
         margin-left: 15px;
         margin-bottom: 0px;
     }
-} 
-
+    .Section3{
+        height:32vh;
+        width:100%;
+    }
+    .Section3image{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+    .Section3image img{
+        display:flex;
+        flex-wrap: nowrap;
+        margin:2%;
+        height:29vh;
+        width:16vw;
+    }
+    .Section3 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: -3%;
+        margin-left: 15px;
+    }
+    .Section4{
+        height:35vh;
+    }
+    .Section4 img{
+        height:30vh;
+    }
+    .Section4 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-left: 15px;
+        margin-bottom: 0px;
+    } 
+    .Section5{
+        height:60vh;
+    }
+    .Section5 .image1{
+        height:35vh;
+    }
+    .Section5 .image2{
+        height:17vh;
+    }
+    .Section5 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    } 
+    .Section6{
+        height:35vh;
+    }
+    .Section6 img{
+        height:30vh;
+    }
+    .Section6 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    } 
+    .Section7{
+        height:35vh;
+    }
+    .Section7 img{
+        height:30vh;
+    }
+    .Section7 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    } 
+    .Section8{
+        height:35vh;
+    }
+    .Section8 img{
+        height:30vh;
+    }
+    .Section8 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    } 
+    .Section9{
+        height:35vh;
+    }
+    .Section9 img{
+        height:30vh;
+    }
+    .Section9 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    } 
+    .Section11{
+        height:35vh;
+    }
+    .Section11 img{
+        height:30vh;
+    }
+    .Section11 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    } 
+    .Section10{
+        height:25vh;
+    }
+    .Section10 img{
+        height:21vh;
+    }
+    .Section10 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 18px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section12{
+        height:27vh;
+    }
+    .Section12 img{
+        height:24vh;
+    }
+    .Section12 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section13{
+        height:27vh;
+    }
+    .Section13 img{
+        height:24vh;
+    }
+    .Section13 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section14{
+        height:27vh;
+    }
+    .Section14 img{
+        height:24vh;
+    }
+    .Section14 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section15{
+        height:27vh;
+    }
+    .Section15 img{
+        height:24vh;
+    }
+    .Section15 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section16{
+        height:27vh;
+    }
+    .Section16 img{
+        height:24vh;
+    }
+    .Section16 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section17{
+        height:27vh;
+    }
+    .Section17 img{
+        height:24vh;
+    }
+    .Section17 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section18{
+        height:60vh;
+    }
+    .Section18 img{
+        height:56vh;
+    }
+    .Section18 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section19{
+        height:60vh;
+    }
+    .Section19 img{
+        height:56vh;
+    }
+    .Section19 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section21{
+        height:60vh;
+    }
+    .Section21 img{
+        height:56vh;
+    }
+    .Section21 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section20{
+        height:30vh;
+    }
+    .Section20 img{
+        height:26vh;
+    }
+    .Section20 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section22{
+        height:30vh;
+    }
+    .Section22 img{
+        height:26vh;
+    }
+    .Section22 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section23{
+        height:30vh;
+    }
+    .Section23 img{
+        height:26vh;
+    }
+    .Section23 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+}
 @media(max-width:873px){
     header{
         background: rgb(25, 0, 255);
@@ -463,12 +1039,319 @@ nav ul li{
         height:25vh;
     }
     .Section2 h1{
-        font-size: 20px;
-        font-weight: 125;
+        font-size: 25px;
+        font-weight: bold;
         margin-top: 20px;
         margin-left: 10px;
         margin-bottom: 0px;
-    }  
+    } 
+    .Section3{
+        height:27vh;
+        width:100%;
+    }
+    .Section3image{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+    .Section3image img{
+        display:flex;
+        flex-wrap: nowrap;
+        margin:1.5%;
+        height:24vh;
+        width:16vw;
+    }
+    .Section3 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: -5.2%;
+        margin-left: 10px;
+    } 
+    .Section4{
+        height:27vh;
+    }
+    .Section4 img{
+        height:25vh;
+    }
+    .Section4 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-bottom: 0px;
+    } 
+    .Section5{
+        height:50vh;
+    }
+    .Section5 .image1{
+        height:30vh;
+    }
+    .Section5 .image2{
+        height:15vh;
+    }
+    .Section5 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section6{
+        height:29vh;
+    }
+    .Section6 img{
+        height:25vh;
+    }
+    .Section6 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section7{
+        height:29vh;
+    }
+    .Section7 img{
+        height:25vh;
+    }
+    .Section7 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section8{
+        height:29vh;
+    }
+    .Section8 img{
+        height:25vh;
+    }
+    .Section8 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section9{
+        height:29vh;
+    }
+    .Section9 img{
+        height:25vh;
+    }
+    .Section9 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section11{
+        height:29vh;
+    }
+    .Section11 img{
+        height:25vh;
+    }
+    .Section11 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section10{
+        height:25vh;
+    }
+    .Section10 img{
+        height:21vh;
+    }
+    .Section10 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 12px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section12{
+        height:27vh;
+    }
+    .Section12 img{
+        height:23vh;
+    }
+    .Section12 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section13{
+        height:27vh;
+    }
+    .Section13 img{
+        height:23vh;
+    }
+    .Section13 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section14{
+        height:27vh;
+    }
+    .Section14 img{
+        height:23vh;
+    }
+    .Section14 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section15{
+        height:27vh;
+    }
+    .Section15 img{
+        height:23vh;
+    }
+    .Section15 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section16{
+        height:27vh;
+    }
+    .Section16 img{
+        height:23vh;
+    }
+    .Section16 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section17{
+        height:27vh;
+    }
+    .Section17 img{
+        height:23vh;
+    }
+    .Section17 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section18{
+        height:55vh;
+    }
+    .Section18 img{
+        height:51vh;
+    }
+    .Section18 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section19{
+        height:55vh;
+    }
+    .Section19 img{
+        height:51vh;
+    }
+    .Section19 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section21{
+        height:55vh;
+    }
+    .Section21 img{
+        height:51vh;
+    }
+    .Section21 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section20{
+        height:30vh;
+    }
+    .Section20 img{
+        height:25vh;
+    }
+    .Section20 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section22{
+        height:30vh;
+    }
+    .Section22 img{
+        height:25vh;
+    }
+    .Section22 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section23{
+        height:30vh;
+    }
+    .Section23 img{
+        height:25vh;
+    }
+    .Section23 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+}
+@media(max-width:700px){
+    .Section3{
+        height:25vh;
+        width:100%;
+    }
+    .Section3image img{
+        display:flex;
+        flex-wrap: nowrap;
+        margin:1.5%;
+        height:22vh;
+        width:16vw;
+    }
+    .Section3 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: -10%;
+        margin-left: 10px;
+    } 
 }
 
 @media(max-width:600px){
@@ -499,22 +1382,298 @@ nav ul li{
     }
     .Section2 h1{
         font-size: 20px;
-        font-weight: 150;
+        font-weight: bold;
         margin-top: 10px;
         margin-left: 15px;
         margin-bottom: 0px;
     }
+    .Section3{
+        height:24vh;
+        width:100%;
+    }
+    .Section3image{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+    .Section3image img{
+        display:flex;
+        flex-wrap: nowrap;
+        margin:2%;
+        height:20vh;
+        width:16vw;
+    }
     .Section3 h1{
         font-size: 20px;
-        font-weight: 50;
-        margin-top: 15px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: -12%;
+        margin-left: 10px;
+    } 
+    .Section4{
+        height:23vh;
+    }
+    .Section4 img{
+        height:22vh;
+    }
+    .Section4 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-left: 15px;
+        margin-bottom: 0px;
+    }
+    .Section5{
+        height:45vh;
+    }
+    .Section5 .image1{
+        height:26vh;
+    }
+    .Section5 .image2{
+        height:13vh;
+    }
+    .Section5 h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 25px;
+        margin-bottom: 0px;
         margin-left: 15px;
     }
-    .Section3 img{
-        margin:10px;
-        margin-top: 0px;
+    .Section6{
+        height:26vh;
     }
-    
+    .Section6 img{
+        height:22vh;
+    }
+    .Section6 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section7{
+        height:26vh;
+    }
+    .Section7 img{
+        height:22vh;
+    }
+    .Section7 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section8{
+        height:25vh;
+    }
+    .Section8 img{
+        height:22vh;
+    }
+    .Section8 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section9{
+        height:24vh;
+    }
+    .Section9 img{
+        height:21vh;
+    }
+    .Section9 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section11{
+        height:24vh;
+    }
+    .Section11 img{
+        height:21vh;
+    }
+    .Section11 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section10{
+        height:25vh;
+    }
+    .Section10 img{
+        height:20vh;
+    }
+    .Section10 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 12px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section12{
+        height:26vh;
+    }
+    .Section12 img{
+        height:22vh;
+    }
+    .Section12 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section13{
+        height:26vh;
+    }
+    .Section13 img{
+        height:22vh;
+    }
+    .Section13 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section14{
+        height:26vh;
+    }
+    .Section14 img{
+        height:22vh;
+    }
+    .Section14 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section15{
+        height:27vh;
+    }
+    .Section15 img{
+        height:23vh;
+    }
+    .Section15 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section16{
+        height:26vh;
+    }
+    .Section16 img{
+        height:22vh;
+    }
+    .Section16 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section17{
+        height:26vh;
+    }
+    .Section17 img{
+        height:22vh;
+    }
+    .Section17 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section18{
+        height:50vh;
+    }
+    .Section18 img{
+        height:45vh;
+    }
+    .Section18 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section19{
+        height:50vh;
+    }
+    .Section19 img{
+        height:45vh;
+    }
+    .Section19 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section21{
+        height:50vh;
+    }
+    .Section21 img{
+        height:45vh;
+    }
+    .Section21 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section20{
+        height:28vh;
+    }
+    .Section20 img{
+        height:24vh;
+    }
+    .Section20 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section22{
+        height:28vh;
+    }
+    .Section22 img{
+        height:24vh;
+    }
+    .Section22 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section23{
+        height:28vh;
+    }
+    .Section23 img{
+        height:24vh;
+    }
+    .Section23 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
 }
 
 @media(max-width:470px){
@@ -550,12 +1709,309 @@ nav ul li{
     }
     .Section2 h1{
         font-size: 20px;
-        font-weight: 150;
+        font-weight: bold;
         margin-top: 10px;
         margin-left: 15px;
         margin-bottom: 0px;
     }
+    .Section3{
+        height:22vh;
+        width:100%;
+    }
+    .Section3image{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+    .Section3image img{
+        display:flex;
+        flex-wrap: nowrap;
+        margin:1%;
+        height:16vh;
+        width:17vw;
+    }
+    .Section3 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: -16%;
+        margin-left: 10px;
+    }
+    .Section4{
+        height:20vh;
+    }
+    .Section4 img{
+        height:19vh;
+    }
+    .Section4 h1{
+        font-size: 12px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-left: 2px;
+        margin-bottom: 0px;
+    } 
+    .Section5{
+        height:40vh;
+    }
+    .Section5 .image1{
+        height:24vh;
+    }
+    .Section5 .image2{
+        height:12vh;
+    }
+    .Section5 h1{
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
+    .Section6{
+        height:22vh;
+    }
+    .Section6 img{
+        height:19vh;
+    }
+    .Section6 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section7{
+        height:22vh;
+    }
+    .Section7 img{
+        height:19vh;
+    }
+    .Section7 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section8{
+        height:22vh;
+    }
+    .Section8 img{
+        height:19vh;
+    }
+    .Section8 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section9{
+        height:22vh;
+    }
+    .Section9 img{
+        height:19vh;
+    }
+    .Section9 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section11{
+        height:22vh;
+    }
+    .Section11 img{
+        height:19vh;
+    }
+    .Section11 h1{
+        font-size: 14px;
+        font-weight: bold;
+        margin-top: 12px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
+    .Section10{
+        height:23vh;
+    }
+    .Section10 img{
+        height:19vh;
+    }
+    .Section10 h1{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 12px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .Section12{
+        height:22vh;
+    }
+    .Section12 img{
+        height:18vh;
+    }
+    .Section12 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section13{
+        height:22vh;
+    }
+    .Section13 img{
+        height:18vh;
+    }
+    .Section13 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section14{
+        height:22vh;
+    }
+    .Section14 img{
+        height:18vh;
+    }
+    .Section14 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section15{
+        height:23vh;
+    }
+    .Section15 img{
+        height:19vh;
+    }
+    .Section15 h1{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section16{
+        height:24vh;
+    }
+    .Section16 img{
+        height:16vh;
+    }
+    .Section16 h1{
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    .Section17{
+        height:22vh;
+    }
+    .Section17 img{
+        height:18vh;
+    }
+    .Section17 h1{
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
+    .Section18{
+        height:43vh;
+    }
+    .Section18 img{
+        height:40vh;
+    }
+    .Section18 h1{
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 5px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
+    .Section19{
+        height:43vh;
+    }
+    .Section19 img{
+        height:40vh;
+    }
+    .Section19 h1{
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 5px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
+    .Section21{
+        height:43vh;
+    }
+    .Section21 img{
+        height:40vh;
+    }
+    .Section21 h1{
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 5px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
+    .Section20{
+        height:26vh;
+    }
+    .Section20 img{
+        height:22vh;
+    }
+    .Section20 h1{
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
+    .Section22{
+        height:26vh;
+    }
+    .Section22 img{
+        height:22vh;
+    }
+    .Section22 h1{
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
+    .Section23{
+        height:26vh;
+    }
+    .Section23 img{
+        height:22vh;
+    }
+    .Section23 h1{
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
 }
+@media(max-width:370px){
+    .Section3 h1{
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: -24%;
+        margin-left: 10px;
+    } 
+}
+
 
 
 
